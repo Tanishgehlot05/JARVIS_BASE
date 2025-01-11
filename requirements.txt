@@ -1,4 +1,4 @@
-whisper           
+openai-whisper           
 google-generativeai 
 pyttsx3          
 sounddevice       
